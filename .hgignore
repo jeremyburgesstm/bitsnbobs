@@ -1,0 +1,5 @@
+syntax: glob
+Sorts/bin/*
+Sorts/obj/*
+*.suo
+*.user
