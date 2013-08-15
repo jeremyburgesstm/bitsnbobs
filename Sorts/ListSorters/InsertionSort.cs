@@ -29,6 +29,10 @@ namespace JeremyBurgess.Sorts
 {
     /// <summary>
     /// InsertionSort class - does what it says on the tin!
+    /// 
+    /// Created this for use on small, usually sorted, list which 
+    /// is very frequently sorted. Mainly thought this would be quicker than 
+    /// .NET quicksort for the data characteristics I was looking at.
     /// </summary>
     public static class InsertionSort
     {
